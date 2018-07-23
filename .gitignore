@@ -1,0 +1,6 @@
+*.tst
+*.out
+*.o
+*.cmp
+*.vm
+main
